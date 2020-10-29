@@ -1,56 +1,30 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: fujiken.dev
+image: /img/名称未設定のデザイン-50-.png
+heading: ふじけんのポートフォリオサイト
+subheading: Portfolio
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: なぜポートフォリオか？
+  description: |-
+    ふじけんのエンジニアとしての強み
+    ・ふじけんの成果物
+    ・日々のアウトプットの場所として
+description: コーヒーでも飲みながらご覧ください。
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: 企業に所属するエンジニアとして、企業への成果を最大化するべく、エンジニアリング力を発揮することに注力しています。一方で頑張らずに成果を出すことをモットーに、直近の大きな成果を出すために疲弊してしまっては持続性を失ってしまうので、持続可能な取り組みとなるように意識して行動しています。
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        仕組みづくりが好きで、アナログな業務をシステム化することを常に考えています。確かに、予測不可能な課題に対して、目の前の大きな課題をかたっぱしから解決するというようなプロアクティブな動きも必要なことは重々承知していますが、成長性を担保しながら、疲弊せずにいかに長生きさせるかの方が、現在は大事かなと考えるタイプです。
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: データ大事。売上大事な性分ですが、そこを人が対応する限り、関わる人の喜びにつながらないと、誰かを犠牲にしてしまいがちと考えます。ヒューマンファーストでシステム化、自動化を考えてエンジニアリングしています。
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        大きなプロジェクトを成し遂げた時、お盆や年末年始のタイミングで、振り返った時の充実感が大好きです。コーヒーやお酒を飲みながら語り合える仕事の進め方を大切にしています。
+  heading: 何をしているか
+  description: 普段はオリィ研究所のエンジニア、情シス担当として活動しています。
 main:
   heading: Great coffee with no compromises
   description: >
